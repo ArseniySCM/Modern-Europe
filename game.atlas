@@ -1,0 +1,821 @@
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Iceland
+  rotate: false
+  xy: 1, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+  NationIcons/Norway
+  rotate: false
+  xy: 0, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+  NationIcons/Finland
+  rotate: false
+  xy: 128, 1
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  NationIcons/Ireland
+  rotate: false
+  xy: 128, 97
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  NationIcons/Ukraine
+  rotate: false
+  xy: 224, 1
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  NationIcons/Poland
+  rotate: false
+  xy: 320, 1
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  NationIcons/Hungary
+  rotate: false
+  xy: 224, 97
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  NationIcons/Belgium
+  rotate: false
+  xy: 128, 192
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  NationIcons/Estonia
+  rotate: false
+  xy: 0, 256
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  NationIcons/Latvia
+  rotate: false
+  xy: 0, 352
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  NationIcons/Belarus
+  rotate: false
+  xy: 96, 288
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  NationIcons/Lithuania
+  rotate: false
+  xy: 96, 256
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+  NationIcons/Switherland
+  rotate: false
+  xy: 0, 448
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+  NationIcons/The Czech Republic
+  rotate: false
+  xy: 96, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+  NationIcons/Romania
+  rotate: false
+  xy: 224, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+  NationIcons/Italy
+  rotate: false
+  xy: 416, 1
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  NationIcons/Bulgaria
+  rotate: false
+  xy: 320, 96
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  NationIcons/Slovakia
+  rotate: false
+  xy: 224, 192
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  NationIcons/Moldova
+  rotate: false
+  xy: 320, 192
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  NationIcons/Slovenia
+  rotate: false
+  xy: 192, 288
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  NationIcons/Albania
+  rotate: false
+  xy: 352, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+  NationIcons/Serbia
+  rotate: false
+  xy: 32, 448
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+  NationIcons/Portugal
+  rotate: false
+  xy: 288, 288
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  NationIcons/Turkey
+  rotate: false
+  xy: 384, 288
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  NationIcons/North Macedonia
+  rotate: false
+  xy: 480, 416
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  NationIcons/Bosnia and Herzegovina
+  rotate: false
+  xy: 480, 320
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  NationIcons/Croatia
+  xy: 480, 224
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  NationIcons/Montenegro
+  rotate: false
+  xy: 416, 96
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/The United Kingdom
+  rotate: false
+  xy: 512, 1
+  size: 100, 100
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  
+game2.png
+size: 512, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Primitive Armory
+  rotate: false
+  xy: 1, 1
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+BuildingIcons/Bible
+  rotate: false
+  xy: 1, 96
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+BuildingIcons/Koran
+  rotate: false
+  xy: 1, 192
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+BuildingIcons/Church
+  rotate: false
+  xy: 1, 288
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Fraternal Church
+  rotate: false
+  xy: 96, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Bar
+  rotate: false
+  xy: 105, 140
+  size: 90, 90
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+BuildingIcons/Pension Fund of Norway
+  rotate: false
+  xy: 128, 320
+  size: 96, 96
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Pension Fund
+  rotate: false
+  xy: 128, 214
+  size: 96, 96
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+  BuildingIcons/Soroca Fortress
+  rotate: false
+  xy: 192, 128
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  BuildingIcons/Ski Resort
+  rotate: false
+  xy: 224, 1
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  
+game3.png
+size: 512, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Kamikaze
+  rotate: false
+  xy: 1, 128
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  UnitIcons/Mantlet
+  rotate: false
+  xy: 96, 128
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  UnitIcons/Paladin
+  rotate: false
+  xy: 192, 128
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  UnitIcons/Partizan
+  rotate: false
+  xy: 1, 224
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  UnitIcons/Mercenary
+  rotate: false
+  xy: 96, 224
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Cart
+  rotate: false
+  xy: 192, 224
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  UnitIcons/Coach
+  rotate: false
+  xy: 1, 320
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  UnitIcons/Logistics Truck
+  rotate: false
+  xy: 200, 328
+  size: 80, 80
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Train
+  rotate: false
+  xy: 96, 320
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Shielder
+  rotate: false
+  xy: 288, 224
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  UnitIcons/Tank-da-Vinci
+  rotate: false
+  xy: 288, 128
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  UnitIcons/Vampire
+  rotate: false
+  xy: 1, 418
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  UnitIcons/Vladychar
+  rotate: false
+  xy: 96, 418
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+  UnitIcons/Fin Sniper
+  rotate: false
+  xy: 296, 328
+  size: 80, 80
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Destructor
+  rotate: false
+  xy: 288, 416
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Crusher
+  rotate: false
+  xy: 192, 416
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Winged Hussar
+  rotate: false
+  xy: 384, 416
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Sharpshooter
+  rotate: false
+  xy: 384, 320
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Grenadier
+  rotate: false
+  xy: 384, 224
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Mercenary
+  rotate: false
+  xy: 2, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mercenary
+  rotate: false
+  xy: 2, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Mercenary
+  rotate: false
+  xy: 2, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Partizan
+  rotate: false
+  xy: 2, 36
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Partizan
+  rotate: false
+  xy: 2, 36
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Partizan
+  rotate: false
+  xy: 2, 36
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Kamikaze
+  rotate: false
+  xy: 34, 36
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kamikaze
+  rotate: false
+  xy: 34, 36
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Kamikaze
+  rotate: false
+  xy: 34, 36
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+  TileSets/FantasyHex/Units/Mantlet
+  rotate: false
+  xy: 32, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+  TileSets/AbsoluteUnits/Units/Mantlet
+  rotate: false
+  xy: 32, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+  TileSets/HexaRealm/Units/Mantlet
+  rotate: false
+  xy: 32, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+  TileSets/FantasyHex/Units/Paladin
+  rotate: false
+  xy: 66, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+  TileSets/AbsoluteUnits/Units/Paladin
+  rotate: false
+  xy: 66, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+  TileSets/HexaRealm/Units/Paladin
+  rotate: false
+  xy: 66, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+  TileSets/FantasyHex/Units/Cart
+  rotate: false
+  xy: 66, 36
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+  TileSets/AbsoluteUnits/Units/Cart
+  rotate: false
+  xy: 66, 36
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+  TileSets/HexaRealm/Units/Cart
+  rotate: false
+  xy: 66, 36
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+  TileSets/FantasyHex/Units/Coach
+  rotate: false
+  xy: 98, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+  TileSets/AbsoluteUnits/Units/Coach
+  rotate: false
+  xy: 98, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+  TileSets/HexaRealm/Units/Coach
+  rotate: false
+  xy: 98, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+  TileSets/FantasyHex/Units/Train
+  rotate: false
+  xy: 98, 36
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+  TileSets/AbsoluteUnits/Units/Train
+  rotate: false
+  xy: 98, 36
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+  TileSets/HexaRealm/Units/Train
+  rotate: false
+  xy: 98, 36
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+  TileSets/FantasyHex/Units/Logistics Truck
+  rotate: false
+  xy: 98, 66
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+  TileSets/AbsoluteUnits/Units/Logistics Truck
+  rotate: false
+  xy: 98, 66
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+  TileSets/HexaRealm/Units/Logistics Truck
+  rotate: false
+  xy: 98, 66
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shielder
+  rotate: false
+  xy: 34, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Shielder
+  rotate: false
+  xy: 34, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Shielder
+  rotate: false
+  xy: 34, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Tank-da-Vinci
+  rotate: false
+  xy: 66, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Tank-da-Vinci
+  rotate: false
+  xy: 66, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Tank-da-Vinci
+  rotate: false
+  xy: 66, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+  TileSets/AbsoluteUnits/Units/Vladychar
+  rotate: false
+  xy: 2, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Vladychar
+  rotate: false
+  xy: 2, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Vladychar
+  rotate: false
+  xy: 2, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Vampire
+  rotate: false
+  xy: 2, 92
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Vampire
+  rotate: false
+  xy: 2, 92
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Vampire
+  rotate: false
+  xy: 2, 92
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Fin Sniper
+  rotate: false
+  xy: 34, 92
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Fin Sniper
+  rotate: false
+  xy: 34, 92
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Fin Sniper
+  rotate: false
+  xy: 34, 92
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Crusher
+  rotate: false
+  xy: 98, 92
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Crusher
+  rotate: false
+  xy: 98, 92
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Crusher
+  rotate: false
+  xy: 98, 92
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Destructor
+  rotate: false
+  xy: 130, 92
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Destructor
+  rotate: false
+  xy: 130, 92
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Destructor
+  rotate: false
+  xy: 130, 92
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sharpshooter
+  rotate: false
+  xy: 66, 92
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sharpshooter
+  rotate: false
+  xy: 66, 92
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Sharpshooter
+  rotate: false
+  xy: 66, 92
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Winged Hussar
+  rotate: false
+  xy: 130, 56
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Winged Hussar
+  rotate: false
+  xy: 130, 56
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Winged Hussar
+  rotate: false
+  xy: 130, 56
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Grenadier
+  rotate: false
+  xy: 130, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Grenadier
+  rotate: false
+  xy: 130, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Grenadier
+  rotate: false
+  xy: 130, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
