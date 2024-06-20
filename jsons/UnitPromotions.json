@@ -1,0 +1,55 @@
+[
+	{
+	"name": "Heal Instantly",
+		"uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine", "Transport"],
+        "row": 0,
+        "column": 0
+     }
+	{
+		"name": "Mobility I",
+		"uniques": ["[+1] Movement"],
+		"unitTypes": ["Helicopter", "Transport"],
+        "column": 22,
+        "row": 1
+	},
+	{
+		"name": "Mobility II",
+		"prerequisites": ["Mobility I"],
+		"uniques": ["[+1] Movement"],
+		"unitTypes": ["Helicopter", "Transport"],
+        "column": 22,
+        "row": 2
+	},
+	{
+		"name": "Mobility III",
+		"prerequisites": ["Mobility II"],
+		"uniques": ["[+1] Movement"],
+		"unitTypes": ["Transport"],
+        "column": 22,
+        "row": 3
+      }
+      {
+      	"name":"Provision I"
+      	"uniques": ["[+5]% Strength"],
+		"unitTypes": ["Transport"],
+        "column": 27,
+        "row": 1
+      }
+      {
+      	"name":"Provision II"
+          "prerequisites":["Provision I"]
+      	"uniques": ["[+5]% Strength"],
+		"unitTypes": ["Transport"],
+        "column": 27,
+        "row": 2
+      }
+      {
+      	"name":"Provision III"
+    	  "prerequisites":["Provision II"]
+      	"uniques": ["[+5]% Strength"],
+		"unitTypes": ["Transport"],
+        "column": 27,
+        "row": 3
+      }
+]

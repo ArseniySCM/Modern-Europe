@@ -1,0 +1,9 @@
+{
+	"isBaseRuleset":"false"
+	"buildingsToRemove":[ "Bazaar", "Walls of Babylon", "Floating Gardens", "Ceilidh Hall", "Paper Maker", "Burial Tomb", "Stele", "Mughal Fort", "Longhouse", "Satrap's Court", "Wat", "Mud Pyramid Mosque", "Pyramid"
+	],
+	"unitsToRemove":["Minuteman", "B17", "Camel Archer", "Jaguar", "Bowman", "Dromon", "Cataphract",
+	"Quinquereme", "African Forest Elephant", "Pictish Warrior", "Chu-Ko-Nu", "War Chariot", "Mehal Sefari", "Slinger", "War Elephant", "Mohawk Warrior", "Samurai", "Zero", "Hwach'a", "Turtle Ship", "Keshik", "Khan", "Persian Immortal", "Maori Warrior", "Ballista", "Legion", "Naresuan's Elephant", "Mandekalu Cavalry", "Horse Archer", "Battering Ram", "Atlatlist"
+	],
+	"nationsToRemove":["Inca", "Carthage", "Aztecs", "The Maya", "The Huns", "America", "Arabia", "Babylon", "Byzantium", "Celts", "China", "Egypt", "Ethiopia", "India", "Iroquois", "Japan", "Korea", "Mongolia", "Persia", "Polynesia", "Rome", "Siam", "Songhai", "The Ottomans", "England"]
+}

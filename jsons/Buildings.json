@@ -1,0 +1,112 @@
+[
+	{
+		"name":"Pension Fund"
+		"requiredTech":"Plastics"
+		"isNationalWonder": true,
+		"cost": 125,
+		"culture": 1,
+		"gold":3
+		"uniques":["Only available <if [Stock Exchange] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city", "[+2 Gold, +1 Happiness] per [6] population [in all cities]"]
+	}
+	{
+		"name":"Primitive Armory"
+		"requiredTech":"Trapping"
+		"food":1
+		"production":2
+		"maintenance":2
+		"cost":50
+	}
+	{
+	"name":"Bible"
+	"isNationalWonder":"true"
+	"faith":3
+	"science":2
+	"cost":100
+	"culture":1
+	"requiredTech":"Writing"
+	"uniques":["Only available <if [Shrine] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"]
+	}
+	{
+	"name":"Koran"
+	"isNationalWonder":"true"
+	"uniqueTo":"Turkey"
+	"replaces":"Bible"
+	"faith":3
+	"science":3
+	"cost":110
+	"culture":3
+	"requiredTech":"Writing"
+	"uniques":["Only available <if [Shrine] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"]
+	}
+	{
+	"name":"UN Headquarters"
+	"requiredTech":"Globalization"
+	"isWonder":true
+	"culture":3
+	"percentStatBonus": {"faith": 25, "culture":10},
+	"uniques":["[+15]% Strength <for [All] units>"]
+	}
+	{
+	"name":"Church"
+	"faith":2
+	"gold":1
+	"cost":120
+	"requiredBuilding": "Temple",
+	"requiredTech":"Civil Service"
+	"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
+	}
+	{
+	"name":"Fraternal Church"
+	"uniqueTo":"Ukraine"
+	"replaces":"Church"
+	"faith":2
+	"gold":2
+	"Happiness":1
+	"cost":140
+	"requiredTech":"Civil Service"
+	"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
+	}
+	//unique
+	{
+	"name":"Bar"
+	"uniqueTo":"The Czech Republic"
+	"happiness":2
+	"maintenance":1
+	"food":1
+	"requiredTech":"Banking"
+	}
+	{
+		"name":"Ski Resort"
+		"uniqueTo":"Austria"
+		"happiness":2
+		"culture":2
+		"uniques":["Must have an owned [Mountain] within [2] tiles"]
+		"cost":360
+		"requiredTech":"Electricity"
+	}
+	{
+		"name":"Pension Fund of Norway"
+		"requiredTech":"Plastics"
+		"replaces":"Pension Fund"
+		"uniqueTo":"Norway"
+		"isNationalWonder": true,
+		"cost": 125,
+		"culture": 1,
+		"gold":5
+		"percentStatBonus": {"gold": 25},
+		"uniques":["Only available <if [Stock Exchange] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city", "[+1 Happiness] per [6] population [in all cities]"]
+	}
+	{
+		"name":"Soroca Fortress"
+		"replaces":"Castle"
+		"requiredTech":"Chivalry"
+		"uniqueTo":"Moldova"
+		"cityHealth": 25,
+		"cityStrength": 10,
+		"culture":1
+		"production":1
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"uniques": ["Destroyed when the city is captured"]
+	}
+]

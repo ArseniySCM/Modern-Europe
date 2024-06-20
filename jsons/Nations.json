@@ -1,0 +1,743 @@
+[
+	{
+		"name":"Ukraine"
+		"leaderName":"V. Zelensky"
+		"adjective": ["Ukrainian"],
+		"startBias": ["Grassland", "Plains"],
+		"preferredVictoryType": "Diplomatic",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a V.Zelensky, president of Ukraine",
+
+		"outerColor": [255, 255, 121],
+		"innerColor": [111, 129, 242],
+		"cities":["Kiev", "Odesa", "Kharkov", "Kherson", "Donetsk", "Dnipro", "Chernivtsi", "Hmelnitsk", "Bukovel", "Lugansk", "Sevastopol", "Kramatorsk", "Mikolaiv"]
+		"uniques":["[+1 Food] from [Farm] tiles [in all cities]", "[+1 Food] from [Plantation] tiles [in all cities]"]
+		}
+		{
+		"name":"Russia"
+		"leaderName":"В. путин"
+		"adjective": ["Russiam"],
+		"startBias": ["Tundra", "Plains"],
+		"preferredVictoryType": "Domination",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a V.Putin, president of Ukraine",
+
+		"outerColor": [239, 180, 0],
+		"innerColor": [0, 0, 0],
+		"cities":["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg","Krasnoyarsk","Bryansk","Novosibirsk","Irkutsk","Samara","Arkhangelsk","Chelyabinsk","Omsk","Astrakhan","Saratov","Perm","Voronezh","Nizhniy Novgorod"]
+		}
+		{
+		"name":"France"
+		"leaderName":"Macron E."
+		"adjective": ["French"],
+		"startBias": ["Grassland", "Coast"],
+		"preferredVictoryType": "Cultural",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+        "outerColor": [ 38, 98, 255],
+        "innerColor": [239,236,148],
+		"cities":["Paris","Orleans","Lyon","Troyes","Marseille","Chartres","Dijon","Cherbourg","Poitiers","Strasbourg","Brest","Rennes","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Le Havre","Lourdes","Cannes","Aix-En-Provence","La Rochelle"],
+		"uniques":["[+2 Gold] [in all cities]"]
+		}
+		{
+		"name":"Spain"
+		"leaderName":"Philip VI"
+		"adjective": ["Spench"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [84,26,26],
+		"innerColor": [255,168,168],
+		"cities": ["Madrid","Barcelona","Seville","Cordoba","Santiago","Valencia","Zaragoza","Palma","Teruel","Almeria","Leon","Zamora","Bilbao","San Sebastian","Granada","Mérida"],
+        "spyNames": ["Rodrigo", "Esmeralda", "Leon", "Mathilda", "Ramona", "Señor X", "Topolino", "Serpiente", "Garcia", "El Lobo"]
+		}
+		{
+		"name":"The United Kingdom"
+		"leaderName":"Charles III"
+		"adjective": ["British"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [109, 2, 0],
+		"innerColor": [255, 255, 255],
+		"cities": ["London","York","Nottingham","Hastings","Newcastle","Oxford","Liverpool","Brighton","Norwich","Leeds","Richmond","Exeter","Cambridge","Manchester","Bristol","Berwick","Bath","Mumbles","Plymouth","Lancaster","Blackpool","Winchester"],
+        "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
+		}
+		{
+		"name":"Austria"
+		"leaderName":"Alexander van der bellen"
+		"adjective": ["Austrian"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Diplomatic",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [234,0,0],
+        "innerColor": [255,255,255],
+        "cities": ["Vienna", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck","St. Pölten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", 
+"Amstetten", "Bad Ischl", "Wolfsberg", "Kufstein", "Leoben", "Klosterneuburg", "Leonding","Kapfenberg"
+		],
+        "spyNames": ["Ferdinand", "Johanna", "Franz-Josef", "Astrid", "Anna", "Hubert", "Alois", "Natter", "Georg", "Arnold"]
+        "uniqueName":"Austrian gunsmiths"
+        "uniques":["[+10]% Production when constructing [Gunpowder] units [in this city]"]
+		}
+		{
+		"name":"Greece"
+		"leaderName":"Kateryna S."
+		"adjective": ["Greek"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [255, 255, 255],
+		"innerColor": [65, 141, 254],
+		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Halicarnassus","Rhodes","Eretria","Pergamon","Miletos","Megara","Phocaea","Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos","Larissa","Patras","Lamia","Nafplion","Apolyton"],
+        "spyNames": ["Jason", "Helena", "Alexa", "Cletus", "Kassandra", "Andres", "Desdemona", "Anthea", "Aeneas", "Leander"]
+		}
+		{
+		"name":"Denmark"
+		"leaderName":"Frederick X"
+		"adjective": ["Danish"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [51,25,0],
+        "innerColor": [255,255,102],
+        "cities": ["Copenhagen","Aarhus","Kaupang","Ribe","Viborg","Tunsberg","Roskilde","Hedeby","Oslo",
+"Bergen","Faeroerne","Reykjavik","Trondheim","Godthab","Sarpsborg","Odense","Aalborg","Stavanger","Vorbasse","Horsens","Tromsoe","Hjorring","Fladstrand","Haderslev","Ringsted","Skrive"],
+        "spyNames": ["Jørgen", "Mette", "Henrik", "Niels", "Helle", "Frederik", "Ida", "Thea", "Freja", "Morten"]
+		}
+		{
+		"name":"Germany"
+		"leaderName":"Steinmeier F. W."
+		"adjective": ["German"],
+		"startBias": ["Hill", "Plains"],
+		"preferredVictoryType": "Cultural",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [179, 178, 184],
+		"innerColor": [37, 43, 33],
+		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen","Duisburg","Münster","Braunschweig","Wuppertal","Freiburg","Hagen","Oberhausen","Hamm","Saarbrücken","Krefeld","Pirmasens","Oldenburg","Herne","Würzburg","Recklinghausen","Göttingen"],
+        "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
+		}
+		{
+		"name":"Sweden"
+		"leaderName":"Carl XVI"
+		"adjective": ["Swedish"],
+		"startBias": ["Tundra", "Coast"],
+		"preferredVictoryType": "Neutral",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [8, 8, 166],
+		"innerColor": [249, 247, 3],
+		"cities": ["Stockholm","Uppsala","Gothenburg","Malmö","Linköping","Kalmar","Skara","Västerås","Jönköping","Visby","Falun","Helsingborg", "Södertälje","Mariestad","Östersund","Borås","Sundsvall","Vimmerby","Köping","Mora","Arboga","Växjö","Gränna","Kiruna","Borgholm","Strängnäs","Sveg"
+        ],
+        "spyNames": ["Leif", "Ingegard", "Sören", "Ragnhild", "Lars", "Lina", "Herr Grå", "Magnus", "Vilma", "Kusin"]
+        "uniques":["Double quantity of [Iron] produced", "Double quantity of [Coal] produced", "[+1 Production] from [Mine] tiles [in all cities] <starting from the [Renaissance era]>"]
+		}
+		{
+		"name":"The Netherlands"
+		"leaderName":"Willem A."
+		"adjective": ["Dutch"],
+		"startBias": ["Grassland", "Coast"],
+		"preferredVictoryType": "Cultural",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [216, 120, 0],
+		"innerColor": [255, 255, 255],
+		"cities": ["Amsterdam", "Rotterdam", "Utrecht", "Groningen", "Breda", "Nijmegen", "Den Haag", "Haarlem", "Almere", "Alkmaar", "Brielle", "Vlissingen", "Apeldoorn", "Enschede", "Amersfoort", "Zwolle", "Nieuwstadt", "Weesp", "Coevorden", "Kerkrade"],
+        "spyNames": ["Joost", "Hendrika", "Marten", "Anke", "Guus", "Mr. X", "Dr. Grijs", "Willem", "Thijs", "Neef"]
+		}
+		{
+		"name":"Switherland"
+		"leaderName":"Viola A."
+		"adjective": ["Dutch"],
+		"startBias": ["Hill", "Mountain"],
+		"preferredVictoryType": "Neutral",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [255, 255, 255],
+		"innerColor": [255, 0, 0],
+		"cities":["Bern", "Zürich", "Genève", "Basel",  "Lausanne", "Luzern", "Biel", "Thun", "Chur", "Kriens", "Zug", "Baar", "Meyrin", "Riehen", "Bulle", "Horgen"]
+		"uniques":["[+20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"]
+		"uniqueName":"Neutral nation"
+		}
+		{
+		"name":"Iceland"
+		"leaderName":"Johannesson H."
+		"adjective": ["Icelandic"],
+		"startBias": ["Tundra", "Coast"],
+		"preferredVictoryType": "Diplomatic",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [0, 78, 178],
+		"innerColor": [255, 135, 135],
+		"cities": ["Reykjavík", "Kópavogur", "Hafnarfjörður", "Akureyri", "Reykjanesbær", "Garðabær", "Mosfellsbær", "Árborg", "Akranes", "Fjarðabyggð", "Ísafjörður", "Sauðárkrókur", "Egilsstaðir", "Húsavík", "Vestmannaeyjar"],
+"spynames": ["Jón", "Guðrún", "Þór", "Sigríður", "Björn", "Helga", "Magnús", "Ásta", "Stefán", "Hildur"]
+		"uniques":["[+1 Food, +1 Production] from [Fishing Boats] tiles [in all cities]"]
+		}
+		{
+		"name":"Ireland"
+		"leaderName":"Michael H."
+		"adjective": ["Irish"],
+		"startBias": ["Plains", "Coast"],
+		"preferredVictoryType": "Neutral",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":"",
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [178, 71, 0],
+		"innerColor": [147, 219, 76],
+		"cities": ["Dublin", "Cork", "Limerick", "Galway", "Waterford", "Drogheda", "Dundalk", "Swords", "Bray", "Navan", "Ennis", "Tralee", "Carlow", "Kilkenny", "Sligo"],
+"spynames": ["Sean", "Aoife", "Cian", "Niamh", "Conor", "Ciara", "Padraig", "Maeve", "Cillian", "Orla"]
+		"uniques":["[+1 Gold, +1 Happiness] from [Wheat] tiles [in all cities]"]
+		}
+		{
+		"name":"Finland"
+		"leaderName":"Stubb A."
+		"adjective": ["Finnish"],
+		"startBias": ["Hill", "Coast"],
+		"preferredVictoryType": "Scientific",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [0, 30, 255],
+		"innerColor": [255, 255, 255],
+		"cities": ["Helsinki", "Espoo", "Tampere", "Vantaa", "Oulu", "Turku", "Jyväskylä", "Lahti", "Kuopio", "Kouvola", "Pori", "Joensuu", "Lappeenranta", "Hämeenlinna", "Vaasa"],
+"spynames": ["Matti", "Anna", "Juhani", "Hanna", "Mikko", "Satu", "Pekka", "Sari", "Timo", "Tiina"]
+		"uniqueName":"Happy nation"
+		"uniques":["[+1 Happiness] [in all cities]"]
+		}
+		{
+		"name": "Norway"
+		"leaderName":"Harald V"
+		"adjective": ["Norwegian"],
+		"startBias": ["Hill", "Coast"],
+		"preferredVictoryType": "Cultural",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [136, 138, 255],
+		"innerColor": [141, 2, 2],
+		"cities": ["Oslo", "Bergen", "Stavanger", "Trondheim", "Drammen", "Fredrikstad", "Skien", "Tromsø", "Sandnes", "Sarpsborg", "Bodø", "Alesund", "Molde", "Kristiansand", "Haugesund"],
+"spynames": ["Per", "Ingrid", "Lars", "Mette", "Ole", "Hanne", "Erik", "Sofie", "Knut", "Astrid"]
+		}
+		{
+		"name":"Estonia"
+		"leaderName":"Karis"
+		"adjective": ["Estonian"],
+		"startBias": ["Grassland", "Coast"],
+		"preferredVictoryType": "Neutral",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [58, 127, 212],
+		"innerColor": [0, 0, 0],
+		"cities": ["Tallinn", "Tartu", "Narva", "Pärnu", "Kohtla-Järve", "Viljandi", "Maardu", "Rakvere", "Sillamäe", "Kuressaare", "Võru", "Valga", "Haapsalu", "Jõhvi", "Paide"],
+"spynames": ["Mart", "Kati", "Jaan", "Liina", "Andres", "Eve", "Tõnu", "Maarja", "Kristjan", "Piret"]
+		}
+		{
+		"name":"Latvia"
+		"leaderName":"Edgars R."
+		"adjective": ["Latwian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Diplomatic",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [181, 0, 0],
+		"innerColor": [255, 255, 255],
+		"cities": ["Riga", "Daugavpils", "Liepāja", "Jelgava", "Jūrmala", "Ventspils", "Rēzekne", "Valmiera", "Jēkabpils", "Ogre", "Tukums", "Cēsis", "Salaspils", "Kuldīga", "Saldus"],
+"spynames": ["Artūrs", "Inese", "Māris", "Līga", "Juris", "Ilze", "Andris", "Dace", "Kaspars", "Linda"]
+		}
+		{
+		"name":"Lithuania"
+		"leaderName":"Nauseda G."
+		"adjective": ["Lithuanian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [240, 255, 30],
+		"innerColor": [0, 130, 4],
+		"cities": ["Vilnius", "Kaunas", "Klaipėda", "Šiauliai", "Panevėžys", "Alytus", "Marijampolė", "Mažeikiai", "Jonava", "Utena", "Kėdainiai", "Telšiai", "Visaginas", "Tauragė", "Ukmergė"],
+"spynames": ["Linas", "Eglė", "Tomas", "Jurga", "Darius", "Rūta", "Gediminas", "Inga", "Mindaugas", "Indrė"]
+		}
+		{
+		"name":"Poland"
+		"leaderName":"Duda A."
+		"adjective": ["Polish"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Scientific",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [255, 255, 255],
+		"innerColor": [242, 97, 134],
+		"cities": ["Warsaw", "Kraków", "Łódź", "Wrocław", "Poznań", "Gdańsk", "Szczecin", "Bydgoszcz", "Lublin", "Białystok", "Katowice", "Gdynia", "Częstochowa", "Radom", "Sosnowiec"],
+"spynames": ["Piotr", "Anna", "Krzysztof", "Magdalena", "Tomasz", "Agnieszka", "Marcin", "Katarzyna", "Michał", "Joanna"]
+		}
+		{
+		"name":"Belgium"
+		"leaderName":"Philip I"
+		"adjective": ["Belgian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [0, 0, 0],
+		"innerColor": [243, 150, 17],
+		"cities": ["Brussels", "Antwerp", "Ghent", "Charleroi", "Liège", "Bruges", "Namur", "Leuven", "Mons", "Aalst", "Mechelen", "La Louvière", "Kortrijk", "Hasselt", "Ostend"],
+"spynames": ["Jean", "Sophie", "Pierre", "Charlotte", "Philippe", "Isabelle", "Luc", "Catherine", "Thierry", "Marie"]
+		"uniques":["[+1 Culture] from every [Gold Ore]", "[+1 Culture] from every [Silver]"]
+		}
+		{
+		"name":"Belarus"
+		"leaderName":"O. Lukashenko"
+		"adjective": ["Belarusian"],
+		"startBias": ["Plains", "Grassland"],
+		"preferredVictoryType": "Domination",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [18, 60, 19],
+		"innerColor": [255, 255, 255],
+		"cities": ["Minsk", "Gomel", "Mogilev", "Vitebsk", "Hrodna", "Brest", "Babruysk", "Baranovichi", "Barysaw", "Pinsk", "Orsha", "Mazyr", "Salihorsk", "Maladzyechna", "Navapolatsk"],
+"spynames": ["Ivan", "Natallia", "Siarhei", "Aksana", "Aliaksandr", "Volha", "Pavel", "Darya", "Yury", "Yuliya"]
+		"uniques":["[+5]% Strength <for [Scout] units>", "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"]
+		
+		}
+		{
+		"name":"Hungary"
+		"leaderName":"Tomáš S."
+		"adjective": ["Hunguryan"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [137, 0, 154],
+		"innerColor": [255, 255, 255],
+		"cities": ["Budapest", "Debrecen", "Szeged", "Miskolc", "Pécs", "Győr", "Nyíregyháza", "Kecskemét", "Székesfehérvár", "Szombathely", "Szolnok", "Tatabánya", "Kaposvár", "Érd", "Veszprém"],
+"spynames": ["Gábor", "Anna", "Attila", "Éva", "Péter", "Katalin", "István", "Mária", "János", "Zsuzsanna"]
+		}
+		{
+		"name":"The Czech Republic"
+		"leaderName":"Peter P."
+		"adjective": ["Czech"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Diplomatic",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [7, 137, 0],
+		"innerColor": [78, 230, 255],
+		"cities": ["Prague", "Brno", "Ostrava", "Plzeň", "Liberec", "Olomouc", "České Budějovice", "Hradec Králové", "Ústí nad Labem", "Pardubice", "Havířov", "Zlín", "Kladno", "Most", "Karviná"],
+"spynames": ["Jan", "Eva", "Petr", "Martina", "Tomáš", "Jana", "Michal", "Lenka", "Lukáš", "Anna"]
+		}
+		{
+		"name":"Portugal"
+		"leaderName":"Marcello R. S."
+		"adjective": ["Portuguese"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [13, 83, 35],
+		"innerColor": [182, 155, 71],
+		"cities": ["Lisbon", "Porto", "Vila Nova de Gaia", "Amadora", "Braga", "Setúbal", "Coimbra", "Queluz", "Funchal", "Cacém", "Vila Franca de Xira", "Almada", "Rio de Mouro", "Évora", "Barreiro"],
+"spynames": ["João", "Maria", "Pedro", "Ana", "Miguel", "Sofia", "Francisco", "Mariana", "Rui", "Catarina"]
+		"uniques":["Enables [All] units to enter ocean tiles <starting from the [Medieval era]>", "[+1 Science] in cities on [Ocean] tiles"]
+		"uniqueName":"Colonization"
+		}
+		{
+		"name":"Italy"
+		"leaderName":"Sergio M."
+		"adjective": ["Italian"],
+		"startBias": ["Coast", "Grassland"],
+		"preferredVictoryType": "Diplomatic",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [42, 233, 43],
+		"innerColor": [178, 8, 8],
+		"cities": ["Rome", "Milan", "Naples", "Turin", "Palermo", "Genoa", "Bologna", "Florence", "Bari", "Catania", "Venice", "Verona", "Messina", "Padua", "Trieste"],
+		"spynames": ["Giuseppe", "Maria", "Francesco", "Laura", "Antonio", "Anna", "Luca", "Giulia", "Alessandro", "Elena"]
+		"uniques":["[+10]% Strength <for [Melee] units> <when fighting in [Foreign Land] tiles>"]
+		}
+		{
+		"name":"Moldova"
+		"leaderName":"Maya S."
+		"adjective": ["Moldovan"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Neutral",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [229, 103, 0],
+		"innerColor": [230, 255, 204],
+		"cities": ["Chisinau", "Tiraspol", "Bălți", "Bender", "Rîbnița", "Cahul", "Ungheni", "Soroca", "Orhei", "Dubăsari", "Comrat", "Ceadîr-Lunga", "Strășeni", "Edineț", "Florești"],
+"spynames": ["Igor", "Elena", "Alexandru", "Ana", "Dmitri", "Maria", "Sergiu", "Irina", "Vladimir", "Natalia"]
+		}
+		{
+		"name":"Romania"
+		"leaderName":"Klaus J."
+		"adjective": ["Romanian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Scientific",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [165, 0, 85],
+		"innerColor": [255, 148, 89],
+		"cities": ["Bucharest", "Cluj-Napoca", "Timișoara", "Iași", "Craiova", "Constanța", "Oradea", "Brașov", "Galați", "Ploiești", "Brăila", "Arad", "Pitești", "Sibiu", "Bacău"],
+"spynames": ["Andrei", "Elena", "Mihai", "Ana", "Alexandru", "Maria", "Cristian", "Ioana", "Gabriel", "Mihaela"]
+		}
+		{
+		"name":"Bulgaria"
+		"leaderName":"R. Radev"
+		"adjective": ["Bulgarian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Cultural",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [18, 53, 18],
+		"innerColor": [190, 89, 89],
+		"cities": ["Sofia", "Plovdiv", "Varna", "Burgas", "Ruse", "Stara Zagora", "Pleven", "Sliven", "Dobrich", "Shumen", "Pernik", "Yambol", "Haskovo", "Blagoevgrad", "Veliko Tarnovo"],
+"spynames": ["Ivan", "Maria", "Georgi", "Elena", "Nikolay", "Anna", "Stefan", "Katerina", "Dimitar", "Tatiana"]
+		}
+		{
+		"name":"Slovakia"
+		"leaderName":"Zuzuna C."
+		"adjective": ["Slovakian"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Diplomatic",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [184, 82, 120],
+		"innerColor": [234, 208, 213],
+		"cities": ["Bratislava", "Košice", "Prešov", "Žilina", "Banská Bystrica", "Nitra", "Trnava", "Martin", "Trenčín", "Poprad", "Prievidza", "Zvolen", "Michalovce", "Spišská Nová Ves", "Komárno"],
+"spynames": ["Peter", "Jana", "Martin", "Eva", "Tomáš", "Zuzana", "Michal", "Mária", "Lukáš", "Katarína"]
+		}
+		{
+		"name":"Slovenia"
+		"leaderName":"Natasha P. M."
+		"adjective": ["Slovenian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Neutral",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [246, 45, 247],
+		"innerColor": [0, 13, 133],
+		"cities": ["Ljubljana", "Maribor", "Celje", "Kranj", "Velenje", "Koper", "Novo Mesto", "Ptuj", "Trbovlje", "Kamnik", "Jesenice", "Murska Sobota", "Nova Gorica", "Domžale", "Škofja Loka"],
+"spynames": ["Tomaž", "Ana", "Matej", "Nina", "Luka", "Maja", "Marko", "Petra", "Ivan", "Alenka"]
+		}
+		{
+		"name":"Croatia"
+		"leaderName":"Zoran M."
+		"adjective": ["Croatish"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [255, 251, 129],
+		"innerColor": [58, 147, 150],
+		"cities": ["Zagreb", "Split", "Rijeka", "Osijek", "Zadar", "Slavonski Brod", "Pula", "Karlovac", "Sisak", "Velika Gorica", "Varaždin", "Šibenik", "Dubrovnik", "Bjelovar", "Kaštela"],
+"spynames": ["Ivan", "Ana", "Luka", "Maja", "Petar", "Ivana", "Marko", "Marija", "Josip", "Jelena"]
+		}
+		{
+		"name":"Bosnia and Herzegovina"
+		"leaderName":"Z. Komsic"
+		"adjective": ["Bosnian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Neutral",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [214, 195, 76],
+		"innerColor": [67, 112, 61],
+		"cities": ["Sarajevo", "Banja Luka", "Tuzla", "Zenica", "Mostar", "Bijeljina", "Prijedor", "Brčko", "Doboj", "Cazin", "Bihać", "Zvornik", "Tešanj", "Gradačac", "Visoko"],
+"spynames": ["Amir", "Emina", "Haris", "Aida", "Nermin", "Lejla", "Adnan", "Selma", "Edin", "Jasmina"]
+		}
+		{
+		"name":"Montenegro"
+		"leaderName":"Yakov M."
+		"adjective": ["Montenegrin"],
+		"startBias": ["Grassland", "Coast"],
+		"preferredVictoryType": "Diplomatic",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [255, 183, 75],
+		"innerColor": [204, 26, 26],
+		"cities": ["Podgorica", "Nikšić", "Herceg Novi", "Pljevlja", "Bijelo Polje", "Cetinje", "Bar", "Berane", "Budva", "Ulcinj", "Kotor", "Tivat", "Danilovgrad", "Rožaje", "Mojkovac"],
+"spynames": ["Marko", "Ana", "Jovan", "Marija", "Miloš", "Jelena", "Petar", "Ivana", "Stefan", "Dragana"]
+		}
+		{
+		"name":"Serbia"
+		"leaderName":"Vucic A."
+		"adjective": ["Serbiab"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [196, 40, 145],
+		"innerColor": [255, 255, 255],
+		"cities": ["Belgrade", "Novi Sad", "Niš", "Kragujevac", "Subotica", "Zrenjanin", "Pančevo", "Čačak", "Kruševac", "Kraljevo", "Smederevo", "Leskovac", "Užice", "Valjevo", "Šabac"],
+"spynames": ["Miloš", "Jelena", "Nikola", "Ana", "Vladimir", "Dragana", "Petar", "Marija", "Stefan", "Ivana"]
+		}
+		{
+		"name":"North Macedonia"
+		"leaderName":"Stevo P."
+		"adjective": ["Macedonian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [191, 24, 15],
+		"innerColor": [78, 197, 255],
+		"cities": ["Skopje", "Bitola", "Kumanovo", "Prilep", "Tetovo", "Veles", "Štip", "Ohrid", "Gostivar", "Strumica", "Kavadarci", "Kočani", "Kičevo", "Struga", "Radoviš"],
+"spynames": ["Aleksandar", "Ivana", "Nikola", "Ana", "Stefan", "Elena", "Petar", "Marija", "Dimitar", "Milena"]
+		}
+		{
+		"name":"Turkey"
+		"leaderName":"Recep T. E."
+		"adjective": ["Turkish"],
+		"startBias": ["Coast", "Desert"],
+		"preferredVictoryType": "Domination",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [255, 255, 0],
+		"innerColor": [255, 0, 0],
+		"cities":["Ankara","Istanbul","Edirne","Bursa","Konya","Samsun","Gaziantep","Diyarbakır","Izmir","Kayseri","Malatya","Mersin","Antalya","Zonguldak","Denizli","Sinop","Adana","Artvin",
+			],
+        "spyNames": ["Ibrahim", "Bayezid", "Sokollu", "Mahmut", "Uveys", "Roxelana", "Safiye", "Hafsa", "Kosem", "Nurbanu"]
+		}
+		{
+		"name":"Albania"
+		"leaderName":"B. Begai"
+		"adjective": ["Albanian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+	
+		"startIntroPart1":"You are strength warrior"
+		"startIntroPart2":""
+	
+		"declaringWar": "We declaring war you",
+		"attacked": "Oh, you is a bad!",
+		"defeated": "This, bad",
+		"introduction": "I,m a president of this country",
+		"outerColor": [0, 0, 0],
+		"innerColor": [250, 0, 0],
+		"cities": ["Tirrana", "Durrës", "Elbasan", "Shkodër", "Vlorë", "Berat", "Lushnjë", "Pogradec", "Kavajë", "Tropojë", "Devoll", "Mat", "Skrapar", "Fier", "Finiq", "Gramsh", "Himarë", "Kamëz", "Klos", "Kurbin"],
+		}
+]

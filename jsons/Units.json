@@ -1,0 +1,342 @@
+[
+	//Scouts
+	{
+		"name": "Scout",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"upgradesTo":"Mercenary"
+		"obsoleteTech": "Metal Casting",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	}
+	{
+	"name":"Mercenary"
+	"unitType":"Scout"
+	"cost":60
+	"strength":13
+	"movement":2
+	"requiredTech":"Metal Casting"
+	"upgradesTo":"Partizan"
+	"attackSound": "metalhit"
+	"uniques":["Can move immediately once bought", "All tiles cost 1 movement", "[+33]% Strength <vs [Armored] units> <when attacking>"]
+	}
+	{
+	"name":"Partizan"
+	"unitType":"Scout"
+	"movement":2
+	"strength":28
+	"cost":200
+	"upgradesTo":"Kamikaze"
+	"requiredTech":"Military Science"
+	"uniques":["May enter foreign tiles without open borders", "Can move immediately once bought"]
+	}
+	{
+		"name":"Kamikaze",
+		"unitType":"Scout",
+		"movement":2,
+		"strength":35,
+		"cost":180,
+		"requiredTech":"Radio",
+		"uniques": [ "[-70]% Strength <vs cities> <when attacking>",
+"[+30]% Strength <vs [Military] units>",
+"Self-destructs when attacking",
+"Can move immediately once bought",
+"May enter foreign tiles without open borders",
+"All tiles cost 1 movement"]
+	}
+	//Def units and un-Def units
+	{
+		"name":"Mantlet"
+		"unitType":"Armored"
+		"requiredTech":"Engineering"
+		"obsoleteTech":"Chivalry"
+		"cost":60
+		"strength":8
+		"range":1
+		"rangedStrength":6
+		"movement":2
+		"upgradesTo":"Shielder"
+		"uniques":["[+100]% Strength <vs [Melee] units> <when defending>", "[+150]% Strength <vs [Ranged] units> <when defending>", "[+100]% Strength <vs cities> <when defending>"]
+	}
+	{
+		"name":"Paladin"
+		"unitType":"Armored"
+		"requiredTech":"Acoustics"
+		"cost":170
+		"strength":25
+		"movement":2
+		"uniques":["[+50]% Strength <vs [Ranged] units> <when defending>", "Heals [15] damage if it kills a unit"]
+		"upgradesTo":"Grenadier"
+		"obsoleteTech": "Scientific Theory",
+	}
+	{
+		"name":"Shielder"
+		"unitType":"Armored"
+		"requiredTech":"Chivalry"
+		"cost":160
+		"strength":17
+		"movement":2
+		"obsoleteTech":"Acoustics"
+		"upgradesTo":"Paladin"
+		"requiredResource":"Iron"
+		"uniques":["[+100]% Strength <vs [Ranged] units> <when defending>", "[+50]% Strength <vs [Melee] units> <when defending>", "[+100]% Strength <vs cities> <when defending>"]
+	}
+	{
+		"name":"Crusher"
+		"unitType":"Sword"
+		"requiredTech":"Guilds"
+		"movement":2
+		"cost": 100
+		"strength":15
+		"upgradesTo":"Destructor"
+		"obsoleteTech":"Banking"
+		"uniques":["[+100]% Strength <vs [Armored] units> <when attacking>"]
+		"attackSound": "metalhit"
+	}
+	{
+		"name": "Berserker",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Denmark",
+		"movement": 3,
+		"strength": 21,
+		"cost": 130,
+		"requiredTech": "Metal Casting",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Metallurgy",
+		"requiredResource": "Iron",
+		"promotions": ["Amphibious"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+		"uniques":["[+50]% Strength <vs [Armored] units> <when attacking>"]
+	}
+	{
+		"name":"Destructor"
+		"unitType":"Sword"
+		"requiredTech":"Banking"
+		"movement":2
+		"cost": 150
+		"strength":22
+		"upgradesTo":"Grenadier"
+		"obsoleteTech": "Scientific Theory",
+		"promotions":["Amphibious"]
+		"uniques":["[+33]% Strength <vs [Armored] units> <when attacking>", "[+33]% Strength <vs [Water] units> <when attacking>"]
+		"attackSound": "metalhit"
+	}
+	{
+	"name":"Grenadier"
+	"requiredTech":"Scientific Theory"
+	"unitType":"Armored"
+	"movement":2
+	"cost":250
+	"range":1
+	"rangedStength":30
+	"strength":30
+	"uniques":["[+20]% Strength <vs [Melee] units> <when defending>", "[-10]% Strength <vs [Ranged] units> <when defending>", "[+50]% Strength <vs [Armored] units> <when attacking>"]
+	"attackSound": "metalhit"
+	"upgradesTo":"Landship"
+	"obsoleteTech":"Combustion"
+	}
+	//Transport
+	{
+		"name":"Cart"
+		"unitType":"Transport"
+		"requiredTech":"Horseback Riding"
+		"cost":65
+		"movement":1
+		"upgradesTo":"Coach"
+		"obsoleteTech":"Machinery"
+		"uniques":["[+30]% Strength bonus for [Military] units within [1] tiles <when defending>", 
+"Can build [Farm] improvements on tiles",
+"Can build [Plantation] improvements on tiles"]
+	}
+	{
+		"name":"Coach"
+		"unitType":"Transport"
+		"requiredTech":"Machinery"
+		"movement":2
+		"cost":75
+		"strength":15
+		"upgradesTo":"Logistics Truck"
+		"obsoleteTech":"Steam Power"
+		"uniques":["[-1] Movement <in [non-[Road]] tiles>",
+ "[+10]% Strength bonus for [Military] units within [2] tiles", "Cannot attack"]
+	}
+	{
+		"name":"Logistics Truck"
+		"unitType":"Transport"
+		"requiredTech":"Steam Power"
+		"cost":250
+		"strength":20
+		"range":2
+		"movement":2
+		"rangedStrength":25
+		"upgradesTo":"Train"
+		"requiredResource":"Iron"
+		"uniques":["[-1] Movement <in [non-[Road]] tiles>", "[+15]% Strength bonus for [Military] units within [2] tiles"]
+	}
+	{
+		"name":"Train"
+		"unitType":"Transport"
+		"requiredTech":"Railroads"
+		"cost":400
+		"strength":25
+		"movement":4
+		"requiredResource":"Iron"
+		"uniques":["[-5] Movement <in [non-[Railroad]] tiles>", "[+10]% Strength bonus for [Military] units within [3] tiles", "Cannot attack"]
+	}
+	//Unique units
+	{
+		"name":"Tank-da-Vinci"
+		"unitType":"Siege"
+		"replaces":"Paladin"
+		"uniqueTo":"Italy"
+		"requiredTech":"Acoustics"
+		"strength":20
+		"movement":2
+		"range":2
+		"rangedStrength":25
+		"cost":200
+		"promotions":["Logistics"]
+		"uniques":["[+100]% Strength <vs [Ranged] units> <when defending>", "No Sight"]
+	}
+	{
+		"name": "Janissary",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Turkey",
+		"movement": 2,
+		"strength": 24,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"promotions": ["[Janissary] ability"],
+		"attackSound": "shot"
+	}
+	{
+		"name": "Sipahi",
+		"unitType": "Mounted",
+		"replaces": "Lancer",
+		"uniqueTo": "Turkey",
+		"movement": 5,
+		"strength": 25,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>",
+			"[+1] Sight"],
+		"promotions": ["[Sipahi] ability","Formation I"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+	}
+	{
+		"name":"Fin Sniper"
+		"replaces":"Machine Gun"
+		"unitType":"Ranged Gunpowder"
+		"uniqueTo":"Finland"
+		"requiredTech":"Ballistics"
+		"movement": 2
+		"range":2
+		"strength":55
+		"rangedStrength":55
+		"cost":400
+		"uniques":["[+50]% Strength <vs [Melee] units> <when attacking>" ,
+"[+50]% Strength <when fighting in [Snow] tiles>", "Invisible to non-adjacent units"]
+	}
+	{
+		"name":"Vampire"
+		"uniqueTo":"Romania"
+		"requiredTech":"Metal Casting"
+		"replaces":"Mercenary"
+		"unitType":"Sword"
+		"cost":105
+		"strength":15
+		"movement":3
+		"upgradesTo":"Partizan"
+		"attackSound": "metalhit"
+		"uniques":["All tiles cost 1 movement", "[-33]% Strength <vs cities> <when attacking>", "Heals [30] damage if it kills a unit", "[+1] Sight"]
+	}
+	{
+		"name":"Vladychar"
+		"replaces":"Knight"
+		"unitType":"Mounted"
+		"requiredTech":"Chivalry",
+		"movement":3
+		"upgradesTo": "Cavalry",
+		"uniqueTo":"Serbia"
+		"strength":22
+		"cost":135
+		"obsoleteTech": "Military Science",
+		"requiredResource": "Horses",
+		"uniques": ["No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit", "[+30]% Strength <vs cities> <when defending>"],
+		"attackSound": "horse"
+	}
+	{
+	"name":"Winged Hussar"
+	"replaces":"Knight"
+	"uniqueTo":"Poland"
+	"unitType": "Mounted",
+	"movement": 4,
+	"strength": 23,
+	"cost": 140,
+	"requiredTech": "Chivalry",
+	"obsoleteTech": "Military Science",
+	"upgradesTo": "Cavalry",
+	"requiredResource": "Horses",
+	"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit", "[+1] Sight", "May withdraw before melee ([25]%)"],
+		"attackSound": "horse"
+	}
+	{
+	"name":"Sharpshooter"
+	"unitType":"Archery"
+	"replaces":"Crusher"
+	"requiredTech":"Guilds"
+	"uniqueTo":"Hungary"
+	"strength":13
+	"movement":2
+	"rangedStrength":16
+	"cost":110
+	"attackSound": "crossbow"
+	"upgradesTo":"Destructor"
+	"obsoleteTech":"Banking"
+	"uniques":["[+50]% Strength <vs [Armored] units> <when attacking>"]
+	}
+	{
+		"name": "Longbowman",
+		"unitType": "Archery",
+		"range": 2,
+		"movement": 2,
+		"strength": 13,
+		"rangedStrength": 18,
+		"replaces": "Crossbowman",
+		"uniqueTo": "The United Kingdom",
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"promotions": ["Extended Range"],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Ship of the Line",
+		"unitType": "Ranged Water",
+		"replaces": "Frigate",
+		"uniqueTo": "The United Kingdom",
+		"movement": 5,
+		"strength": 30,
+		"rangedStrength": 35,
+		"cost": 185,
+		"requiredResource": "Iron",
+		"uniques": ["[+1] Sight"],
+		"requiredTech": "Navigation",
+		"obsoleteTech": "Electronics",
+		"upgradesTo": "Battleship",
+		"hurryCostModifier": 20,
+		"attackSound": "shipCannonVolley"
+	},
+]
