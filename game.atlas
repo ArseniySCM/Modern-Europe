@@ -171,7 +171,7 @@ NationIcons/Iceland
   orig: 96, 96
   offset: 0, 0
   index: -1
-  NationIcons/North Macedonia
+  NationIcons/Macedonia
   rotate: false
   xy: 480, 416
   size: 96, 96
@@ -283,7 +283,7 @@ BuildingIcons/Pension Fund
   index: -1
   
 game3.png
-size: 512, 512
+size: 640, 640
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -416,6 +416,34 @@ UnitIcons/Sharpshooter
 UnitIcons/Grenadier
   rotate: false
   xy: 384, 224
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Lumberjack
+  rotate: false
+  xy: 1, 512
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Hypaspit
+  rotate: false
+  xy: 96, 512
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Stormtrooper
+  rotate: false
+  xy: 192, 512
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Croatian Army
+  rotate: false
+  xy: 288, 512
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
@@ -815,6 +843,90 @@ TileSets/AbsoluteUnits/Units/Grenadier
 TileSets/HexaRealm/Units/Grenadier
   rotate: false
   xy: 130, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lumberjack
+  rotate: false
+  xy: 162, 28
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Lumberjack
+  rotate: false
+  xy: 162, 28
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Lumberjack
+  rotate: false
+  xy: 162, 28
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ribauldequin
+  rotate: false
+  xy: 162, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Ribauldequin
+  rotate: false
+  xy: 162, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Ribauldequin
+  rotate: false
+  xy: 162, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Hypaspit
+  rotate: false
+  xy: 162, 92
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Hypaspit
+  rotate: false
+  xy: 162, 92
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hypaspit
+  rotate: false
+  xy: 162, 92
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Croatian Army
+  rotate: false
+  xy: 194, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Croatian Army
+  rotate: false
+  xy: 194, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Croatian Army
+  rotate: false
+  xy: 194, 64
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
